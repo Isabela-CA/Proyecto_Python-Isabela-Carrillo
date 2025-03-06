@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Argentina",
+        "codigo_iso": "AR",
+        "codigo_iso3": "ARG"
+    },
+    {
+        "nombre": "India",
+        "codigo_iso": "IN",
+        "codigo_iso3": "IND"
+    },
+    {
+        "nombre": "Brasil",
+        "codigo_iso": "BR",
+        "codigo_iso3": "BRA"
+    },
+    {
+        "nombre": "Colombia",
+        "codigo_iso": "CO",
+        "codigo_iso3": "COL"
+    }
+]
